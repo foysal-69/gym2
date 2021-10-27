@@ -1,12 +1,15 @@
 
-
-
-
-/* @media (min-width:991px ){
-    .social-icons{
-        display: flex;
+@media only screen and (max-width: 360px) {
+    .navbar-toggler-icon {
+        color: #F13A11 !important;
+        margin-top: 3px;
+        padding-left: 120px;
     }
     .navbar-expand-lg .navbar-nav {
-        padding-left: 80px;
+        padding-left: 68px;
     }
-} */
+    .social-icons {
+        margin-left: 12px;
+    }
+  }
+
