@@ -1,0 +1,113 @@
+body{
+	scroll-behavior: smooth;
+	margin: 0;
+	padding: 0;
+	color: white;
+}
+.header-top{
+
+  background-image: url("../images/hero-bg.jpg");
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+max-width: 100%;
+height: 100vh;
+ 
+}
+
+.navbar-expand-lg {
+    margin: auto;
+    max-width: 1100px;
+}
+.navbar-expand-lg .navbar-nav {
+    padding-left: 110px;
+	
+}
+.mynav ul li a{
+	color: white;
+	text-transform: uppercase;
+}
+.mynav ul li  .active a{
+	color:#F13A11  !important   ;
+}
+ 
+.mynav a:hover {
+	color:#F13A11 !important ;
+}
+.navbar-toggler-icon{
+	color:#F13A11 !important ;
+	margin-top: 3px;
+}
+
+.social-icons{
+margin-left: 60px;
+}
+.social-icons ul{
+display: flex;
+}
+.social-icons ul li{
+list-style: none;
+padding: 8px;
+margin-top: 8px;
+}
+.social-icons ul a  {
+text-decoration: none;
+}
+.social-icons ul a li  i{
+color:white;
+}
+.social-icons ul a li:hover  i{
+	color:#F13A11 !important ;
+	;
+	}
+	.middle-part{
+		margin-top: 75px;
+	}
+
+	.text-01 a{
+		text-decoration: none;
+		color:#Ffffff;
+	}
+	.text-01 a:hover{
+		text-decoration: none;
+		color:#F13A11;}
+	   
+	.botn {
+	
+margin-top: 20px;
+	}
+
+	
+	.addmision {background-color:black;
+	
+	}
+	.addmision p{
+		color: #444;
+	}
+	.addmision span{
+		margin: 20px ;
+		width: 2px;
+		line-height: 80px;
+		background-color: #444;
+		
+	}
+	.trainer{
+		margin-top: 100px;
+	}
+	.trainer  p , .body h5{
+		color: #8f8f8f;
+	}
+	.s-icon a li{
+		list-style: none;
+		padding: 6px;
+	}
+	.s-icon a{
+		text-decoration: none;
+		color: black;
+		
+	}
+	.s-icon a:hover{
+		color:#F13A11  ;
+
+		
+	}
