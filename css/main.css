@@ -152,16 +152,13 @@ margin-top: 20px;
 		margin-top: 150px;
 background-color: #000;
 	}
-	.table td {
-		padding: 1rem;
-	}
 	.schedule-table tr td:first-child {
 		background-color: #F13A11;
-		border: ;
 		color: white;
 	}
 	.table-responsives{
-		max-width: 100%;
+		max-width: 95%;
+		margin-left: 30px;
 	}
 
 td span{
