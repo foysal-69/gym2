@@ -176,3 +176,6 @@ color: white !important;
 .schedules-bton{
 	display: none;
 }
+.table-bordered td, .table-bordered th {
+    border: 1px solid #4d4d4d70  !important;
+}
