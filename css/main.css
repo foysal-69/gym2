@@ -19,7 +19,7 @@ body{
 	
 		-ms-flex: 0 0 50%;
 		flex: 45% !important ;
-		margin-top: 55px;
+		margin-top: 25px;
 		margin-left: 30px;
 	}
 
@@ -148,3 +148,34 @@ margin-top: 20px;
 	.body-class h3 span{
 		color: #000000f2;
 	}
+	.schedules{
+		margin-top: 150px;
+background-color: #000;
+	}
+	.table td {
+		padding: 1rem;
+	}
+	.schedule-table tr td:first-child {
+		background-color: #F13A11;
+		border: ;
+		color: white;
+	}
+	.table-responsives{
+		max-width: 100%;
+	}
+
+td span{
+	color:#ffffff7a;
+}
+.table-bordered {
+	border:none !important ;
+}
+.schedules .title h1{
+color: white !important;
+}
+.st{
+	color: #737373ed;
+}
+.schedules-bton{
+	display: none;
+}

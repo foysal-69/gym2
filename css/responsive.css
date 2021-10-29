@@ -10,12 +10,26 @@
     }
     .social-icons {
         margin-left: 12px;
+        margin-top: 3px;
     }
+
+
     .t1, .t2{
         margin: 20px  !important;
     }
-  }@media only screen and (max-width: 992px) {
-      
+    .body-class h3 {
+     font-size: 18px;
+    }
+}
+  @media only screen and (max-width: 768px) {
+    
+    .schedules-bton{
+        display: block;
+        margin: auto;
+    }
+    .table-responsives {
+        display: none;
+    }
   }
 
 
