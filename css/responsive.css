@@ -30,6 +30,18 @@
     .table-responsives {
         display: none;
     }
+    .map iframe{
+        width: 100%;
+        height: 300px;
+        margin-top: 50px;
+      margin-left: 0px;
+    }
+    .footer-end {
+        margin: 15px;
+    }
+    .socialinfo{
+        margin-left: 0px;
+    }
   }
 
 
