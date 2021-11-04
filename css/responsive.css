@@ -47,6 +47,15 @@
     .socialinfo{
         margin-left: 0px;
     }
+    .askfrom input {
+        width: 300px;
+       
+    
+    }
+    .askfrom button{
+        width: 300px;
+      
+    }
   }
 
 
